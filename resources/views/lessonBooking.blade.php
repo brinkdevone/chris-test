@@ -6,6 +6,9 @@
     <br><br>
     <p class='text-center'><strong>{{ $user->name }} merci de choisir parmis les horaires suivant afin de planifier votre prochain cours :</strong></p>
 
+
+    <p class='text-center'><strong>{{ $user->name }} merci de choisir parmis les horaires suivant afin de planifier votre prochain cours :</strong></p>
+
 @stop
 
 @section('js')
